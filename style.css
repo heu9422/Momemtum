@@ -34,6 +34,30 @@ body {
     font-size: 150px;
 }
 
+#login-form input{
+    width : 500px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 5px solid white;
+    background-color: transparent;   
+    outline: none;
+    color : white;
+    font-size:40px;
+    position: absolute;
+    top : 400px;
+    left : 550px;
+    right : 550px;
+}
+
+#login-form h1{
+    position: absolute;
+    top : 300px;
+    left : 300px;
+    right : 300px;
+}
+
 #toDo-form input{ 
     width : 500px;
     height: 40px;
